@@ -658,7 +658,7 @@ margin-left: 10px;
    font-weight: 700;
    font-size: 18px;
    line-height: 2;
-   letter-spacing: 0.03em;
+   letter-spacing: 0.06em;
 }
 .project .text{
    font-style: normal;
@@ -673,6 +673,7 @@ margin-left: 10px;
    border: 1px solid #EEEEEE;
    border-top: none;
    box-sizing: border-box;
+   white-space:nowrap 
 }
 
 
